@@ -1,0 +1,103 @@
+{
+  "posts": [
+    {
+      "slug": "introducing-our-new-product",
+      "title": "Introducing Our New Product",
+      "excerpt": "We are excited to announce the launch of our new product, designed to help you sell smarter and grow your business.",
+      "mainImage": {
+        "alt": "A screenshot of our new product",
+        "url": "/blog/post-1.webp"
+      },
+      "publishedAt": "2024-04-15T10:00:00Z",
+      "author": {
+        "name": "Jane Doe",
+        "image": {
+          "url": "/blog/avatar.webp"
+        }
+      },
+      "category": "product-updates"
+    },
+    {
+      "slug": "company-achieves-milestone",
+      "title": "Company Achieves Major Milestone",
+      "excerpt": "Celebrating our 10th anniversary and reflecting on a decade of growth, innovation, and customer success.",
+      "mainImage": {
+        "alt": "Team celebrating the company milestone",
+        "url": "/blog/post-2.webp"
+      },
+      "publishedAt": "2024-05-20T14:30:00Z",
+      "author": {
+        "name": "John Smith",
+        "image": {
+          "url": "/blog/avatar.webp"
+        }
+      },
+      "category": "company-news"
+    },
+    {
+      "slug": "top-10-sales-tips-for-2024",
+      "title": "Top 10 Sales Tips for 2024",
+      "excerpt": "Boost your sales performance with these essential tips and strategies tailored for the current market trends.",
+      "mainImage": {
+        "alt": "Sales team brainstorming strategies",
+        "url": "/blog/post-3.webp"
+      },
+      "publishedAt": "2024-06-10T09:15:00Z",
+      "author": {
+        "name": "Emily Johnson",
+        "image": {
+          "url": "/blog/avatar.webp"
+        }
+      },
+      "category": "sales-tips"
+    },
+    {
+      "slug": "how-to-use-our-product-effectively",
+      "title": "How to Use Our Product Effectively",
+      "excerpt": "Maximize the benefits of our product with these best practices and advanced features.",
+      "mainImage": {
+        "alt": "User interacting with the product interface",
+        "url": "/blog/post-4.webp"
+      },
+      "publishedAt": "2024-07-05T11:45:00Z",
+      "author": {
+        "name": "Michael Lee",
+        "image": {
+          "url": "/blog/avatar.webp"
+        }
+      },
+      "category": "product-updates"
+    },
+    {
+      "slug": "behind-the-scenes-at-our-office",
+      "title": "Behind the Scenes at Our Office",
+      "excerpt": "Take a virtual tour of our office and meet the team that makes everything possible.",
+      "mainImage": {
+        "alt": "Office workspace and team members",
+        "url": "/blog/post-1.webp"
+      },
+      "publishedAt": "2024-08-12T16:00:00Z",
+      "author": {
+        "name": "Sarah Williams",
+        "image": {
+          "url": "/blog/avatar.webp"
+        }
+      },
+      "category": "company-news"
+    }
+  ],
+  "categories": [
+    {
+      "slug": "product-updates",
+      "title": "Product Updates"
+    },
+    {
+      "slug": "company-news",
+      "title": "Company News"
+    },
+    {
+      "slug": "sales-tips",
+      "title": "Sales Tips"
+    }
+  ]
+}
